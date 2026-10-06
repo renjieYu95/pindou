@@ -1,0 +1,5 @@
+page { background: #f7f6f2; color: #243b36; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif; font-size: 28rpx; }
+view, button, input, scroll-view { box-sizing: border-box; }
+button { margin: 0; padding: 0; font-size: inherit; line-height: 1.4; border-radius: 0; background: transparent; color: inherit; }
+button::after { border: 0; }
+button[disabled] { opacity: .45; color: inherit; background: transparent; }

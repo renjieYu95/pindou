@@ -1,0 +1,14 @@
+{
+  "description": "豆屿 · 本地图片转拼豆",
+  "miniprogramRoot": "miniprogram/",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "douyu-bead-studio",
+  "libVersion": "3.7.0",
+  "setting": {
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "urlCheck": true
+  }
+}
